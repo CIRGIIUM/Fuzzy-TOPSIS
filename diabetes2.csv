@@ -1,0 +1,5 @@
+Pregnancies MAX,Glucose MAX,BloodPressure MAX,SkinThickness MIN,Insulin MIN,BMI MAX,Age MAX
+Low,Low,Medium,Low,High,High,Low
+High,High,High,Medium,Medium,High,High
+Medium,Medium,High,High,Low,Low,Low
+Low,Low,Low,High,High,Low,Low

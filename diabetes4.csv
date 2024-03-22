@@ -1,0 +1,27 @@
+index,0 MAX,1 MAX,2 MAX,4 MIN,5 MIN,6 MIN
+"Patient's height, weight and BMI",High,High,High,High,Low,Low
+Patient daily physical activity level,Low,High,Medium,Low,Low,High
+Patient's diet intake,High,High,Medium,Medium,Medium,Low
+Expert's knowledge,High,High,Low,High,Medium,Medium
+Social support,High,High,High,Low,High,Low
+Patient preferences of treatment options,High,Medium,Low,Low,Low,Low
+Hemoglobin A1c (HbA1c)  level,High,High,Medium,Low,Medium,Low
+Hypoglycemia risk,Low,Medium,High,Medium,Medium,High
+Medication availability,High,High,Low,Low,High,Low
+Presence of comorbidity ,Low,Low,Low,High,Low,High
+Risk of infection,High,Low,Low,Low,Low,High
+Risk of gastrointestinal problems. ,Medium,Medium,Medium,Medium,Medium,Low
+Patient? mental health,High,High,Low,High,High,High
+Daily activities functioning,Low,Low,Medium,Low,High,Low
+Blood glucose level,High,High,Medium,Medium,High,Low
+Cardiovascular (CVD) risk ,High,High,High,Low,Low,Low
+Renal failure.,High,Medium,Medium,Low,Low,Medium
+Duration of diabetes ,Medium,High,Medium,Low,Low,High
+TOC (Target Organ Complication),High,Low,Low,Low,High,Low
+Adverse effect of drugs,High,Low,High,Low,Low,Low
+Age (Life expectancy),High,High,Low,Low,Low,Low
+Patient? blood pressure,Low,Low,Medium,Medium,Low,High
+Patient? knowledge,Low,Low,Low,High,High,High
+Polypharmacy,High,High,Low,High,Low,Low
+Dyslipidaemia,High,Low,High,High,High,Low
+Working condition ,High,High,Low,High,High,Low

@@ -1,0 +1,6 @@
+index,0 MIN,1 MIN,2 MAX,3 MAX
+Pregnancies ,Low,High,Medium,Low
+Glucose,Medium,Medium,Low,Low
+BloodPressure,Medium,Medium,High,High
+SkinThickness,Low,High,High,Low
+Insulin ,High,High,High,Low
